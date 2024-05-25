@@ -1,0 +1,13 @@
+html {background-color: rgb(73, 73, 73);}
+h1 {color: aqua;}
+form {background: linear-gradient(green, greenyellow, yellow, rgb(0, 26, 255));
+    border: solid white;
+border-radius: 15px; } 
+body {
+text-align: center;
+margin-top: 50;
+margin-left: 550;
+margin-right: 550;
+margin-bottom: 700;
+
+}
